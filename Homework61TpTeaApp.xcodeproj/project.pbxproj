@@ -87,8 +87,6 @@
 				D66D284527A0F54900464DDB /* AppDelegate.swift */,
 				D66D284727A0F54900464DDB /* SceneDelegate.swift */,
 				D66D284B27A0F54A00464DDB /* Main.storyboard */,
-				D6B8671227A66DB8007E0918 /* OrderListTableViewController.swift */,
-				D6B8670B27A424EA007E0918 /* OrderTableViewController.swift */,
 				D6B866E927A23B72007E0918 /* Models */,
 				D6FA000E27A6EA1700B88494 /* View */,
 				D6FA000D27A6E9EB00B88494 /* Controller */,
@@ -131,9 +129,11 @@
 		D6B866EB27A23BC0007E0918 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				D6B8671227A66DB8007E0918 /* OrderListTableViewController.swift */,
+				D6B8670B27A424EA007E0918 /* OrderTableViewController.swift */,
+				D6B8670927A3DE55007E0918 /* MenuItemCollectionViewController.swift */,
 				D66D285927A0FB3500464DDB /* LaunchScreenViewController.swift */,
 				D6B866F027A29120007E0918 /* MenuItemViewController.swift */,
-				D6B8670927A3DE55007E0918 /* MenuItemCollectionViewController.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
